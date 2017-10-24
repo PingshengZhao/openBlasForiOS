@@ -1,0 +1,6 @@
+framework module Testwwwww {
+  umbrella header "Testwwwww.h"
+
+  export *
+  module * { export * }
+}
